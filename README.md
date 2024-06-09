@@ -1,2 +1,2 @@
 # BizcardX-Data-Extraction-using-OCR
-Data Extraction Using OCR
+The application allows users to upload an image of a business card and extract relevant information from it using easyOCR.
